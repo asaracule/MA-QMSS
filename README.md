@@ -50,7 +50,13 @@
 <!-- ABOUT ME -->
 ## About Me
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Hello there! Welcome to my personal GitHub repository!
+
+Born and raised in Singapore, I enjoy traveling the world, immersing myself in different cultures, and meeting people of different backgrounds. Is it through conversations that I gain a richer perspective on the issues burgeoning our times, and I endeavor to carry this very attitude of open-mindedness and diversity into the workplace. I am a versatile and adaptable team player, strongly holding the belief that people always come first. Commitment, integrity, and empathy are values that I strongly resonate with, and I am eager to work with people and organizations that share similar views.
+
+I am currently pursuing a Master of Arts in Quantitative Methods in the Social Sciences at Columbia University. I recently graduated with a Bachelor of Science (First Class Honours) in Economics from University College London. My rich experience in economic policy analysis, backed by a strong foundation in econometrics and data science using  Python, R, and STATA puts me on a strong foot to contribute to public policy in Singapore. Having lived and studied in diverse countries spanning three continents, I am able to bring fresh perspectives and synthesize innovative solutions to solve problems in our ever-changing and dynamic world.
+
+Shortly after my postgraduate studies, I will pursue a career with the Republic of Singapore Air Force as an Air Traffic Controller and defense policymaker. I am excited to apply my quantitative research skills to elevate and revolutionize air operations and defense administration. I am also passionate about social policy, international affairs, and public administration. I am open to opportunities that might allow me to tap into these interests and skills I possess to improve the lives of fellow Singaporeans  Outside of work, I enjoy sipping coffee and reading biographies. I am an avid landscape and street photographer hoping to document the bits and pieces of my life with computer pixels.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
