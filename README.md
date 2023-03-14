@@ -7,7 +7,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Welcome to WenKai Ng's GitHub!</h3>
+<h3 align="center">Welcome to Wen Kai Ng's GitHub!</h3>
 </div>
 
 
@@ -28,7 +28,7 @@
 <!-- ABOUT ME -->
 ## About Me
 
-Hello there! Welcome to my personal GitHub repository!
+Hello there, my name is Wen Kai! Welcome to my personal GitHub repository!
 
 Born and raised in Singapore, I enjoy traveling the world, immersing myself in different cultures, and meeting people of different backgrounds. Is it through conversations that I gain a richer perspective on the issues burgeoning our times, and I endeavor to carry this very attitude of open-mindedness and diversity into the workplace. I am a versatile and adaptable team player, strongly holding the belief that people always come first. Commitment, integrity, and empathy are values that I strongly resonate with, and I am eager to work with people and organizations that share similar views.
 
