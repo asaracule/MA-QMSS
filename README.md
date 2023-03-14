@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -99,6 +101,7 @@ Singapore had also experienced several significant events, including two general
 
 To find out more about my projects, or to link up with me over my other interests, feel free to contact me using the methods below :)
 
-Linkedin: [https://www.linkedin.com/in/ng-wen-kai](https://www.linkedin.com/in/ng-wen-kai)
+[LinkedIn](https://www.linkedin.com/in/ng-wen-kai)
+[Email](wn2195@columbia.edu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
