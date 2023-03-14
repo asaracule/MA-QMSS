@@ -1,15 +1,3 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![LinkedIn][linkedin-shield]](www.linkedin.com/in/ng-wen-kai)
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -28,8 +16,8 @@
   <ol>
     <li><a href="#about-me">About Me</a></li>
     <li><a href="#data-&-digital---related-skills-and-interests">Data & Digital-Related Skills and Interests</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#current-projects">Current Projects</a></li>
+    <li><a href="#contact-me">Contact Me</a></li>
   </ol>
 </details>
 
@@ -72,14 +60,14 @@ I am trained and experienced in the following data-related skills:
 <!-- CURRENT PROJECTS -->
 ## Current Projects
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+These are the following projects I am working on:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. QMSS Master's Thesis: *Sentiment Analysis of the Impact of the 2013 Little India Riots on Attitudes Towards Migrants Workers (MWs) and Racial Harmony in Singapore*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
+<!-- CONTACT ME -->
+## Contact Me
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
