@@ -68,15 +68,37 @@ The 2013 Little India Riot was arguably a watershed moment in Singapore’s hist
 
 My thesis will aim to utilize data from various social media platforms to answer the following research question: To what extent did the 2013 Little India Riots affect the attitude of Singaporeans towards MWs, immigration policy, and Racial Harmony? Overall, I believe that the Singaporean sentiment towards MWs post-riot has worsened and that this has also negatively impacted the perception of Singaporeans on Racial Harmony. Natural language processing techniques will be used to analyze social media data on reactions towards MW-related articles before and after 2013 to detect whether there is indeed a difference in attitudes toward the MWs.
 
-2. 
+2. Python Package: CalorieNinjas API Wrapper
+
+This project is meant for use with the CalorieNinjas API. The link to the API can be found at: https://rapidapi.com/calorieninjas/api/calorieninjas/
+
+This Python package contains a 4 function to allow users to interact with the API call from the CalorieNinjas API.
+
+- First, search() allows the user to search for individual food items and returns a dataframe containing all the nutritional values of that food item.
+
+- Second, compare() allows the user to compare multiple food items and their key nutritional values (sugar, total fat and fiber). A bar chart is generated to allow users to look at a glance, the difference in the key nutritional values of the food items they wish to comapare.
+
+- Third, cal_counter() allows the user to input a list of food items they have consumed from the meal, and returns the total calories consumed from this particular meal.
+
+- Last, classifier() takes the users age and meal as an input. The function will return to total amounts of (a) sugar, (b) sodium, and (c) cholesterol consumed from the meal. According to the user's input age, the function will then tell the user whether the meal is healthy or unhealthy based on the sugar, sodium and cholesterol levels recommended for their age group.
+
+3. Sentiment Analysis of Singapore Budget Speeches from 2010-2023
+
+For this project, I have collected the Budget speeches of Singapore’s Minister for Finance to the Parliament of Singapore from 2010 to 2023.
+
+The Budget speech, hereon referred to as Budget, is an annual speech by the Finance Minister, and aims to set out the government’s spending allocation for the year, and the new financial measures that the government is meting out to help Singaporeans. From 2010 to 2023, the Budget was delivered by three Finance Ministers - Tharman Shammugaratnam from 2010 to 2015, Heng Swee Keat from 2016 to 2021, and Lawrence Wong from 2022 to 2023. All three Finance Ministers are from the ruling party, the People’s Action Party (PAP), and were also the sitting Deputy Prime Minister when their speeches were delivered. Tharman Shammugaratnam is considered a part of the 3G (3rd generation) leadership of the PAP, with Heng Swee Keat and Lawrence Wong part of the 4G.
+
+Interestingly, the three Finance Ministers were three of the most popular politicians in Singapore. Shortly after the 2015 general elections, Heng Swee Keat was initially touted to succeed Lee Hsien Loong as the next Prime Minister, before health issues forced him to step aside for Lawrence Wong to be the (current) frontrunner in 2022.
+
+Singapore had also experienced several significant events, including two general elections in 2015 and 2020, the celebration of its Golden Jubilee, and most recently, the COVID-19 pandemic. External global events of significance in this period include the US-North Korean tensions and the Ukraine- Russia war. My analysis aims to quantify how the Singapore budget has evolved over the years using natual language processing techniques, including how the priorities of the PAP government has changed, and the governing style of each of the three finance ministers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT ME -->
 ## Contact Me
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+To find out more about my projects, or to link up with me over my other interests, feel free to contact me using the methods below :)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Linkedin: [https://www.linkedin.com/in/ng-wen-kai](https://www.linkedin.com/in/ng-wen-kai)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
