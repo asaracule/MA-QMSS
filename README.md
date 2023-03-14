@@ -62,7 +62,13 @@ I am trained and experienced in the following data-related skills:
 
 These are the following projects I am working on:
 
-1. QMSS Master's Thesis: *Sentiment Analysis of the Impact of the 2013 Little India Riots on Attitudes Towards Migrants Workers (MWs) and Racial Harmony in Singapore*
+1. QMSS Master's Thesis: **Sentiment Analysis of the Impact of the 2013 Little India Riots on Attitudes Towards Migrants Workers (MWs) and Racial Harmony in Singapore**
+
+The 2013 Little India Riot was arguably a watershed moment in Singapore’s history. Little India is a popular area for Indian Migrant Workers (MWs) to congregate during the weekends (Ong, 2019). The riots happened in protest of a bus driver who ran over and killed 33-year-old construction worker Mr. Sakthivel Kumaravelu in Little India on 8 December 2013. The riot subsequently evolved to become more violent, with policemen and police vehicles that rushed onto the scene attacked and damaged. 
+
+My thesis will aim to utilize data from various social media platforms to answer the following research question: To what extent did the 2013 Little India Riots affect the attitude of Singaporeans towards MWs, immigration policy, and Racial Harmony? Overall, I believe that the Singaporean sentiment towards MWs post-riot has worsened and that this has also negatively impacted the perception of Singaporeans on Racial Harmony. Natural language processing techniques will be used to analyze social media data on reactions towards MW-related articles before and after 2013 to detect whether there is indeed a difference in attitudes toward the MWs.
+
+2. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
